@@ -12,7 +12,7 @@ GNU Radio wurde von Eric Blossom ins leben gerufen und ist seitdem ein wichtiger
 
 
 
-![image](https://github.com/pxatx/KSN/assets/133774507/5b7627f8-ec76-44bc-8904-9a3ef4fca81c)
+![image](https://github.com/pxatx/KSN/assets/133774507/15d7e1f3-f557-4073-bd05-1217f024467f)
 
 
 
