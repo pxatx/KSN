@@ -11,7 +11,8 @@ Es kann nämlich sehr vielseitig eingesetzt werden: Wireless Communication, Bild
 GNU Radio wurde von Eric Blossom ins leben gerufen und ist seitdem ein wichtiger Bestandteil im Bereich der Funktechnik.
 
 
-![image](https://github.com/mqnky/ksn/assets/95501683/66615fff-a626-42bd-be10-475863f6bcd6)
+
+![image](https://github.com/pxatx/KSN/assets/133774507/5b7627f8-ec76-44bc-8904-9a3ef4fca81c)
 
 
 ![image](https://github.com/mqnky/ksn/assets/95501683/9c28026c-96cc-4e9f-a608-acf6b176740d)
